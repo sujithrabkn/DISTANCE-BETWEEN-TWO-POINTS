@@ -9,8 +9,9 @@ Import math.
 list the elements in array.
 ### Step 3: 
 Substitute the values in the distance formula 
-
+ 
  ![formula](formula.JPG)
+ 
 ### Step 4: 
 Print the distance using formula.
 ### Step 5: 
